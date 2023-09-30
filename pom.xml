@@ -64,7 +64,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>bk201.dev.autoledger/bk201.dev.autoledger.HelloApplication</mainClass>
+                            <mainClass>bk201.dev.autoledger/bk201.dev.autoledger.Dashboard</mainClass>
                         </configuration>
                     </execution>
                 </executions>
