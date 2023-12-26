@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="AutoLedger" target="19" />
+      <module name="AutoLedger" target="0" />
     </bytecodeTargetLevel>
   </component>
 </project>
